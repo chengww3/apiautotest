@@ -1,4 +1,5 @@
 #接口自动化二次开发方案
+
 开发环境：
 >python3.6+requests+unittest
 >测试报告模板使用的二次开发的HttpTestRunner.py
@@ -23,4 +24,5 @@ testCase目录：
 run_all.py 开启测试
 
 #目录结构
+
 ![这里写图片描述](http://img.blog.csdn.net/20171223205918153?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMTQ5MDgwMjc=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
